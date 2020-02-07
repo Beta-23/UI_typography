@@ -42,3 +42,7 @@ cite {
     font-family: 'Amatic SC', cursive;
     font-size: 1.4em;
 }
+
+h1, p, blockquote p, cite {
+    font-family: 'Montserrat';
+}
