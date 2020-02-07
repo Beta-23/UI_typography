@@ -46,3 +46,11 @@ cite {
 h1, p, blockquote p, cite {
     font-family: 'Montserrat';
 }
+
+h1 {
+    font-size: 2em;
+}
+
+blockquote p {
+    line-height: 1.5em;
+}
